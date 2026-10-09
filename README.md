@@ -10,6 +10,8 @@ A Windows tray app that teaches English vocabulary starting from Bengali. It sho
 | Offline | Lookups are cached in a local SQLite database |
 | Tech | Python, Tkinter, pystray, Pillow, SQLite, Free Dictionary API, MyMemory API |
 
+<img src="docs/screenshots/control-panel.png" alt="Control panel" width="380">
+
 ## What it does
 
 - **Word cards on a timer.** Every 20 minutes by default, a card appears in the bottom right corner with the Bengali word, the English word, its phonetics, the meaning, example sentences and how far through the day you are. Buttons: Pronounce, Copy, Add to favourites, Previous, I know this, Show again soon, Next word, Details. Drag the card by its top edge to move it.
