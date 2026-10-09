@@ -2,7 +2,7 @@
 
 A Windows tray app that teaches English vocabulary starting from Bengali. It shows a word card every so often, quizzes you in five practice styles and tracks your progress with light spaced repetition. Built in Python.
 
-| | |
+| Feature | Details |
 |---|---|
 | Word bank | 3,805 entries: words, phrasal verbs, idioms, collocations, proverbs and confusing pairs, each with a Bengali meaning |
 | Levels | CEFR A1 to C2 |
